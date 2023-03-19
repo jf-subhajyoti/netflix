@@ -1,7 +1,7 @@
 .banner {
     position: relative;
-    height: 60vh;
-    width: 100vw;
+    height: 80vh;
+    width: 100%;
     color: white;
     object-fit: contain;
 }
@@ -49,7 +49,7 @@
 .banner--fadeButton {
     position: absolute;
     bottom: 0;
-    height: 6rem;
-    width: 100vw;
+    height: 10rem;
+    width: 100%;
     background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, 0.61), #111);
 }
